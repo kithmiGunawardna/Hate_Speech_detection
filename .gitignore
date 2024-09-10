@@ -1,0 +1,12 @@
+# Python virtual environment
+.venv/
+
+# IDE or system files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Other potential files
+*.tmp
